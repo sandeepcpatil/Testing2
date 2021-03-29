@@ -1,3 +1,4 @@
 This is file2
 This is in the master brach also
 This is branch2 ediding
+This is again branch 2 editing to chekc the command git push 
